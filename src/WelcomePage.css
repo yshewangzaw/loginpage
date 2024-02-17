@@ -1,0 +1,22 @@
+.welcome-page {
+    text-align: center;
+    padding: 20px;
+    background-color:#a3a3a3;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin: 20px auto;
+    max-width: 400px;
+  }
+  
+  .welcome-page h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .welcome-page p {
+    color: #ffff;
+    font-size: 16px;
+  }
